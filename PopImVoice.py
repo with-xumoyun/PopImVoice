@@ -104,7 +104,7 @@ TEXTS = {
     "uz": {
         "language": "🌐 Tilni tanlang:",
         "name": "👤 Ism va familiyangizni kiriting:",
-        "grade": "🎓 Sinfingizni kiriting:\n\nMasalan: 9-A",
+        "grade": "🎓 Sinfingizni kiriting:\n\nMasalan: 9.01",
         "phone": "📱 Telefon raqamingizni yuboring:",
         "send_phone": "📱 Telefon raqamimni yuborish",
 
@@ -178,7 +178,7 @@ TEXTS = {
     "ru": {
         "language": "🌐 Выберите язык:",
         "name": "👤 Введите имя и фамилию:",
-        "grade": "🎓 Введите класс:\n\nНапример: 9-A",
+        "grade": "🎓 Введите класс:\n\nНапример: 9.01",
         "phone": "📱 Отправьте номер телефона:",
         "send_phone": "📱 Отправить мой номер",
 
@@ -224,7 +224,7 @@ TEXTS = {
     "en": {
         "language": "🌐 Choose your language:",
         "name": "👤 Enter your full name:",
-        "grade": "🎓 Enter your grade:\n\nExample: 9-A",
+        "grade": "🎓 Enter your grade:\n\nExample: 9.01",
         "phone": "📱 Send your phone number:",
         "send_phone": "📱 Send my phone",
 
